@@ -1,0 +1,1 @@
+export { PageSchema } from './Page';
